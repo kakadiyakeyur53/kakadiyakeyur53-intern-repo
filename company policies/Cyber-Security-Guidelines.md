@@ -1,0 +1,1 @@
+I will ensure that my passwords are strong and secure to prevent any potential breaches. Additionally, I will make sure not to share code with any unauthorized individuals or upload it to untrusted websites, maintaining the confidentiality and integrity of project data.
