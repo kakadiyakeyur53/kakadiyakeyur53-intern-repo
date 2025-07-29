@@ -14,8 +14,9 @@ Uploading source code or sensitive files to public AI tools/websites. → Avoid 
 Sharing credentials with team members casually. → Use role-based access control and password managers.
 
 🛠️ Task
-Identify at least one habit or practice you can adopt to improve data security in your role:
+
+1. Identify at least one habit or practice you can adopt to improve data security in your role:
 As a Project Manager, access control is crucial. I will ensure that no unauthorized person has access to project resources and regularly audit team permissions. I’ll also educate team members on the importance of secure handling of credentials and sensitive data.
 
-Document at least one key learning or security measure you will implement:
+2. Document at least one key learning or security measure you will implement:
 I will enforce a thorough code review process to detect potential data vulnerabilities early. Ensuring all test cases meet security requirements will be a part of our standard QA checklist to minimize the risk of data breaches.
