@@ -1,0 +1,2 @@
+The design of Focus Bear is simple and user-friendly, which is great. However, in some places, the app displays raw error codes and messages directly from the API. These messages are often technical and not easily understandable for users. To improve the user experience, we should replace them with clear, user-friendly text messages that explain the issue in plain language. This will make it easier for users to understand and take appropriate action.
+
