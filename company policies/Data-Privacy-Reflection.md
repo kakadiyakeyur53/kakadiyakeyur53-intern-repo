@@ -20,3 +20,12 @@ As a Project Manager, access control is crucial. I will ensure that no unauthori
 
 2. Document at least one key learning or security measure you will implement:
 I will enforce a thorough code review process to detect potential data vulnerabilities early. Ensuring all test cases meet security requirements will be a part of our standard QA checklist to minimize the risk of data breaches.
+
+Real-World Example: Verifying Access Request
+Assume I receive a message from someone claiming to be a team member, asking for access to a restricted internal tool or resource. Since the resource is not publicly available, I would take the following steps to ensure security and follow Focus Bear's data privacy policy:
+
+Verify Identity: First, I would check our internal team directory or contact list to confirm that the person is indeed a part of the team.
+Check Authorization: Next, I would confirm their role and whether they are authorized to access the specific resource. I’d consider if the resource falls within their responsibilities and if they are trusted to handle it securely.
+Seek Approval: If there is any doubt, or if the resource is sensitive, I would escalate the request to a higher authority (e.g., my team lead or security contact) to get approval before granting access.
+
+This approach helps me avoid accidentally exposing sensitive information and aligns with our policies on access control and responsible data handling.
