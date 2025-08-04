@@ -9,3 +9,5 @@ One feature that stands out in apps like Tiimo is their modern and visually enga
 
 Based on your research, what’s one improvement you think Focus Bear could make?
 Focus Bear could benefit from a UI/UX refresh to make the app feel more modern and intuitive. Introducing a visually rich interface—such as animated timelines, drag-and-drop routines, and mood-based themes—would not only improve usability but also increase user engagement and satisfaction.
+<img width="1909" height="845" alt="image" src="https://github.com/user-attachments/assets/e3890f9d-1342-4640-a03e-e4ff5ecda423" />
+
