@@ -16,3 +16,9 @@ I’m passionate about contributing to meaningful projects that make a positive 
 
 Do you personally relate to any of the challenges that Focus Bear aims to solve?
 While I haven’t faced ADHD or autism-related challenges myself, I recognize that social media distractions are common among today’s generation—including myself. Focus Bear’s ability to block distractions and use AI to maintain focus and consistency is a valuable solution that I personally support and see as widely beneficial.
+
+I often find myself distracted by social media, especially Instagram, during study and work sessions. When studying, I tend to get bored, and having my mobile nearby leads me to check Instagram and Reels, where interesting videos keep me engaged for extended periods. Even when I decide to focus on work, notifications from messages often pull my attention away, compelling me to check them, which results in further distraction. Additionally, other notifications frequently trigger the urge to engage with social media, further consuming my time.
+
+While I have not used any specific apps to limit my usage, I have taken advantage of a built-in feature on my mobile device that allows me to set limits on app usage. This feature reminds me when I’ve spent too much time on social media, encouraging me to refocus on my tasks. However, it does not fully prevent distractions.
+
+I have found Focus Bear to be particularly useful, as it blocks apps and notifications, allowing me to concentrate on my work without interruptions.
