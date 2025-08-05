@@ -9,3 +9,23 @@ For meetings such as sprint planning, daily stand-ups, and retrospectives, I wil
 
 How might you follow up with colleagues or supervisors if you need information/action from them? How would you escalate it further if you don't get a response and when would you escalate?
 If I need information or action from someone, I will first reach out formally. If there is no response, I will send a reminder. If I still don’t receive a reply, I will escalate the matter by involving a higher authority to prevent delays in the workflow.
+
+Respectful Communication in Remote Teams
+In a remote team, especially one spread across multiple time zones, I prioritize clear, respectful, and inclusive communication. For example:
+We currently use Discord as our main communication platform. I always ensure that critical conversations are documented and shared in the appropriate channels.
+If a team member is in a different time zone, I respect their working hours and make use of asynchronous updates—either via recorded meetings or shared summaries—to keep them in the loop.
+I regularly check in with quieter team members to ensure they feel heard and involved.
+
+
+Creating a Positive & Inclusive Environment
+Building a fun and supportive environment remotely takes effort, and I’m proactive about it:
+I organize virtual get-togethers, such as weekly coffee chats or game sessions, to give people space to bond beyond work.
+I celebrate small wins on team channels and recognize contributions openly.
+I ensure everyone has a voice—even interns or junior team members—by actively inviting their opinions during meetings or async threads.
+
+
+✅ Confirmation of Supervisor Guide & CEO Contact:
+Yes, I have reviewed the supervisor guide and have noted the CEO’s contact number:
+Jeremy Nagel – 0414 885 787
+
+I understand that I should contact Jeremy in case of any emergency, serious issue, or situation requiring direction or escalation.
