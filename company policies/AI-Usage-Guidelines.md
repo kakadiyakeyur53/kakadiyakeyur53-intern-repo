@@ -32,3 +32,4 @@ At Focus Bear, I propose implementing a structured AI usage policy:<br>
 •	Emphasize precaution when using AI, particularly with sensitive data, to safeguard privacy and confidentiality.<br>
 •	As a project manager, I will help develop clear guidelines for AI use, ensuring that all employees are aware of the risks and best practices.<br>
 
+<img width="1406" height="664" alt="image" src="https://github.com/user-attachments/assets/dcba4b3c-fb88-4612-8963-aa440f1295dc" />
